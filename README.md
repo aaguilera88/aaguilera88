@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaguilera88&label=Profile%20views&color=0e75b6&style=flat" alt="aaguilera88" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aguileraalex88" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="aguileraalex88" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aguileraalex88" target="blank"><img src="https://img.shields.io/twitter/follow/aguileraalex88?logo=twitter&style=for-the-badge" alt="aguileraalex88" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
